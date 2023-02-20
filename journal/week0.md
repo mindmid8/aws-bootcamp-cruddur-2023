@@ -23,7 +23,7 @@ sudo ./aws/install
 
 ![Generate AWS Credentials](assets/Week%200%20Access%20key%20generated%20credentials.PNG)
 
-### Create an Admin User
+### Create an Admin User **(mindtest)**
 
 ![Create an AWS Admin User](assets/Week%200%20Created%20IAM%20user%20and%20group%20plus%20access%20policy.PNG)
 
@@ -35,7 +35,7 @@ sudo ./aws/install
 
 ![Create a Billing Alarm](assets/Week%200%20Created%20my%20AWS%20credit%20spend%20alarm.PNG)
 
-### Create a Billing Alarm
+### Create Billing Alarms
 
 ![Create a Budget](assets/Week%200%20Created%20two%20budget%20alarms.PNG)
 
