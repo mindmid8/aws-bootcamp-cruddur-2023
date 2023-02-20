@@ -4,7 +4,8 @@
 ## **The required homework**
 
 
-### Installed AWS CLI
+### Installed AWS CLI following instructions on the AWS CLI documentation 
+
 I installed AWS CLI applying the code below:
 
 ```
